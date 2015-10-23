@@ -58,7 +58,8 @@ addTimestamp() -添加时间戳($.chat("addTimestamp") or $.chat("addTimestamp",
 	 
 	  {function} loadHistory.error - jquery.ajax方法同
 	
-	 参数结构:
+	
+参数结构:
 	 
 	 var defaults = {
 	 
