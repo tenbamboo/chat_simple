@@ -31,6 +31,7 @@ API:
 
 
 参数说明:
+
 	 {String} title - 标题
 	  
 	 {String} recipientImg - 接受者头像
