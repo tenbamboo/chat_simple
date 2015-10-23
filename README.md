@@ -17,15 +17,16 @@ API:
 
 方法说明:
 
-addSendMessage(message) - 添加一条发送信息($.chat("addSendMessage","test"))
 
-addReceiveMessage(message) - 添加一条接收信息($.chat("addReceiveMessage","test"))
+	addSendMessage(message) - 添加一条发送信息($.chat("addSendMessage","test"))
 
-openChat() - 打开聊天窗口($.chat("openChat"))
+	addReceiveMessage(message) - 添加一条接收信息($.chat("addReceiveMessage","test"))
 
-closeChat() - 关闭聊天窗口($.chat("closeChat"))
+	openChat() - 打开聊天窗口($.chat("openChat"))
 
-addTimestamp() -添加时间戳($.chat("addTimestamp") or $.chat("addTimestamp","12:20");)
+	closeChat() - 关闭聊天窗口($.chat("closeChat"))
+
+	addTimestamp() -添加时间戳($.chat("addTimestamp") or $.chat("addTimestamp","12:20");)
 
 
 
